@@ -1,12 +1,12 @@
 ## ArduinoOscilloscope
-Simple 5V Oscilloscope using Arduino Mini, TFT ILI9163C display and including automated scaling and frequency calculation
+Simple pocket 5V Oscilloscope (1Mhz capability!) using Arduino Mini, TFT ILI9163C display and including automated scaling and frequency calculation
 
 ## Components
 ![Diagram of the OduinoOscilloscope and used components](oscilloscope_schem.png)
-- Arduino Mini (rev5)
+- Arduino Mini (rev5) Atmega 328
 - Li-ion/Li-Po 3.7V 500mah
 - TP4056 microUSB chargine module
-- TFT ILI9163C display 
+- TFT ILI9163C 1.44" display 
 - Probe wire
 - 4 tact buttons/switches
 - 1 button/switch for power on/off 
