@@ -26,9 +26,7 @@ The ILI9163C display should be connected to Arduino Mini using following pins: C
 - TFT ILI9163C library
 
 ## Proof-of-concept device
-
-![1.jpg](1.jpg){:height="50%" width="50%"} 
-![2.jpg](2.jpg){:height="50%" width="50%"}
+![2.jpg](2.jpg)
 
 ## Misc
 The inspiration for this project came from http://srukami.inf.ua/pultoscop_v1_1.html However, completely rebuilt and fitted to TFT ILI9163C display, including automated scaling.
