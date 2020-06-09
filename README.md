@@ -15,6 +15,8 @@ Simple pocket battery-driven 5V Oscilloscope using Arduino Mini and TFT ILI9163C
 - R6 10 KOhm
 - D1-D2 1N4007
 
+The ILI9163C display should be connected to Arduino Mini using following pins: CS=10, DC=9, RST=8. The signal probe cable is connected tot A4 and battery level measrement pin - A6. Here I used 1.44" display with the respolution 128x128. Arduino precision is 1023.0.
+
 ## Software Requirements
 - Arduino IDE 1.8.12
 - SPI
